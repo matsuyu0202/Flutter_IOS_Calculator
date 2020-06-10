@@ -1,4 +1,4 @@
-# ioscalculater
+# ios calculator clone craeted by flutter
 
 A new Flutter application.
 
