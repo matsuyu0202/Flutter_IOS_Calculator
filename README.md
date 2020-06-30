@@ -1,7 +1,8 @@
 # ios calculator clone craeted by flutter
 
 A new Flutter application.
-![image] (screenshot1.png)
+![image](screenshot1.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
