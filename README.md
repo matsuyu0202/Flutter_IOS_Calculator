@@ -1,7 +1,7 @@
 # ios calculator clone craeted by flutter
 
 A new Flutter application.
-![image](screenshot1.png)
+![image](screenshot1.png width="40%")
 
 ## Getting Started
 
