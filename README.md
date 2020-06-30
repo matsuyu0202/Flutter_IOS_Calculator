@@ -1,7 +1,7 @@
 # ios calculator clone craeted by flutter
 
 A new Flutter application.
-![](screenshot1.png = 100x300)
+<img source="screenshot1.png" title="ios_screenshot" width="100" height="300" />
 
 ## Getting Started
 
